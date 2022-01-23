@@ -1,0 +1,17 @@
+{
+  "name": "lite-server",
+  "version": "1.0.0",
+  "description": "create html-css-js website",
+  "main": "index.js",
+  "author": "Nabeel Thurakkal",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server",
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0",
+    "jest": "^27.4.4",
+    "lite-server": "^2.6.1"
+  }
+}
